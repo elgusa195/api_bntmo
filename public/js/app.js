@@ -1,7 +1,7 @@
 /**
  * DATA 
  */
-const API_URL = 'https://baniapi.cleverapps.io';
+const API_URL = 'https://apibanistmo.cleverapps.io';
 const LS = window.localStorage;
 let info = {
     user: '',
